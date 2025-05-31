@@ -1,0 +1,12 @@
+age = 20
+print("ram is" + str (age)+ "years old")
+
+
+
+number=int(input("enter a number"))
+if (number>0):
+ print("positive")
+elif(number<o):
+ print("negative")
+else:
+ print("zero")
